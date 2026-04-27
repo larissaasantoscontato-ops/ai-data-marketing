@@ -128,3 +128,9 @@ Analise uma campanha com baixo ROI e sugira melhorias usando IA considerando seg
 ## 🚀 Conclusão
 
 A Inteligência Artificial aplicada à análise de dados representa uma vantagem competitiva para profissionais de marketing, permitindo decisões mais rápidas, inteligentes e eficientes.
+
+## 📂 Arquivos Complementares
+
+- [Prompts](./prompts/prompt-engineering.md)
+- [Fontes](./sources/references.md)
+- [Mini Guia](./docs/mini-guide.md)
