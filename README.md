@@ -2,9 +2,11 @@
 
 ## 📌 Contexto
 
-Este projeto foi desenvolvido como desafio prático utilizando o NotebookLM, com foco no estudo da aplicação da Inteligência Artificial na análise de dados voltada ao marketing digital.
+Este projeto foi desenvolvido utilizando o NotebookLM como ferramenta principal de apoio aos estudos.
 
-A proposta central foi entender como a IA pode transformar dados brutos em decisões estratégicas, impactando diretamente campanhas, produção de conteúdo e performance de resultados.
+O objetivo foi explorar como a Inteligência Artificial pode ser aplicada na análise de dados voltada ao marketing digital, utilizando fontes selecionadas, perguntas estratégicas e síntese automatizada de conhecimento.
+
+<img width="978" height="546" alt="Interface do NotebookLM com fontes carregadas" src="https://github.com/user-attachments/assets/21ebb662-b306-49c6-9115-f48dadc23a04" />
 
 ---
 
@@ -16,6 +18,12 @@ A proposta central foi entender como a IA pode transformar dados brutos em decis
 - Consolidar conhecimentos em formato de mini guia
 - Criar material de consulta futura
 
+
+## 🛠️ Ferramenta Utilizada
+
+- NotebookLM (Google)
+- GitHub
+- Pesquisa em fontes abertas
 ---
 
 ## 📚 Curadoria de Fontes
@@ -39,19 +47,25 @@ https://www.mckinsey.com
 
 ---
 
-## 🧪 Engenharia de Prompts e Cicatrizes
+## 🧪 Engenharia de Prompts
 
-### Prompt 1 (Genérico)
+Durante os testes no NotebookLM, foram realizados prompts com foco em estratégia, performance e conteúdo.
 
-Como usar IA no marketing?
+### Exemplo:
 
-**Resultado:** resposta superficial.
+Prompt:
+Como a IA pode melhorar campanhas de marketing digital com base em dados históricos?
 
-**Aprendizado:** prompts vagos geram respostas vagas.
+Resultado:
+O NotebookLM apresentou insights sobre segmentação, previsibilidade e otimização de mídia.
+
+<img width="1000" height="736" alt="Interface do NotebookLM com fontes carregadas" src="https://github.com/user-attachments/assets/c175fa29-02e2-494a-9ea6-4dd715f27678" />
+<img width="1147" height="734" alt="Interface do NotebookLM com fontes carregadas" src="https://github.com/user-attachments/assets/95f0b185-12bc-4bcd-b479-a12ad2acb6c3" />
+
 
 ---
 
-### Prompt 2 (Refinado)
+### Prompt 2 
 
 Como a IA pode melhorar campanhas de marketing digital com base em dados históricos?
 
@@ -61,7 +75,7 @@ Como a IA pode melhorar campanhas de marketing digital com base em dados histór
 
 ---
 
-### Prompt 3 (Avançado)
+### Prompt 3 
 
 Analise uma campanha com baixo ROI e sugira melhorias usando IA considerando segmentação, conteúdo e mídia paga.
 
