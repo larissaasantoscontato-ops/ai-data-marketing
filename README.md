@@ -26,49 +26,6 @@ O objetivo foi explorar como a Inteligência Artificial pode ser aplicada na an�
 - Pesquisa em fontes abertas
 ---
 
-## 📘 Mini Guia de Estudo
-
-### 📊 Resumo Estruturado
-
-### Estratégia
-- Previsão de comportamento
-- Segmentação inteligente
-- Decisão orientada por dados
-
-### Conteúdo
-- Personalização em escala
-- Recomendações automáticas
-- Copy baseada em performance
-
-### Performance
-- Otimização de campanhas
-- Testes A/B automatizados
-- Previsão de ROI
-
----
-
-## 📖 Glossário
-
-- IA: Inteligência Artificial  
-- ROI: Retorno sobre investimento  
-- Data-driven: decisão baseada em dados  
-- Machine Learning: aprendizado por dados  
-- Automação: execução sem ação manual  
-
----
-
-## 🤖 Prompts Reutilizáveis
-
-- Analise estes dados e gere insights estratégicos.
-- Sugira melhorias para campanhas com baixo desempenho.
-- Identifique padrões de comportamento do consumidor.
-- Crie estratégias com base nos dados fornecidos.
-
----
-
-## 🚀 Conclusão
-
-A Inteligência Artificial aplicada à análise de dados representa uma vantagem competitiva para profissionais de marketing, permitindo decisões mais rápidas, inteligentes e eficientes.
 
 ## 📂 Arquivos Complementares
 
