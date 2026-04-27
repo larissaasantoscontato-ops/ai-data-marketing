@@ -26,29 +26,6 @@ O objetivo foi explorar como a Inteligência Artificial pode ser aplicada na an�
 - Pesquisa em fontes abertas
 ---
 
-## 📚 Curadoria de Fontes
-
-As fontes abaixo foram utilizadas como base de estudo no NotebookLM:
-
-1. Google Analytics  
-https://analytics.google.com
-
-2. HubSpot - AI Marketing  
-https://blog.hubspot.com/marketing/ai-marketing
-
-3. Think with Google  
-https://www.thinkwithgoogle.com
-
-4. MIT Sloan  
-https://mitsloan.mit.edu
-
-5. McKinsey & Company  
-https://www.mckinsey.com
-
----
-
-
-
 ## 📘 Mini Guia de Estudo
 
 ### 📊 Resumo Estruturado
