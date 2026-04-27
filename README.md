@@ -30,5 +30,5 @@ O objetivo foi explorar como a Inteligência Artificial pode ser aplicada na an�
 ## 📂 Arquivos Complementares
 
 - [Prompts](./prompts/prompt-engineering.md)
-- [Referências](./sources/references.md)
+- [Referências](./prompts/sources/sources/sources.md)
 - [Mini Guia](./docs/mini-guide.md)
